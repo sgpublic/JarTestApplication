@@ -10,7 +10,7 @@ Step:
 
 + Assemble model `app`.
 
-+ Install the assemble result `app-debug.apk` to a Android phone.
++ Install the assemble result `app-debug.apk` to an Android phone.
 
 + Launch the app, then it crash.
 
